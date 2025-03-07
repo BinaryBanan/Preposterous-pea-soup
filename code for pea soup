@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finnish Pea Soup - The Truth</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #4a7a2c;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .reasons {
+            text-align: left;
+            margin-top: 20px;
+        }
+        .reasons li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Finnish Pea Soup: A Culinary Disaster</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hernekeitto.jpg/640px-Hernekeitto.jpg" alt="Finnish Pea Soup">
+        <p>Finnish pea soup (hernekeitto) is a thick, green soup made of dried peas, pork, and mustard. Traditionally eaten on Thursdays, it has a long history—but does that make it good? Absolutely not.</p>
+        <h2>Why Finnish Pea Soup is Awful</h2>
+        <ul class="reasons">
+            <li><strong>The Texture:</strong> It’s a mushy, thick, and unappealing sludge.</li>
+            <li><strong>The Smell:</strong> A combination of boiled peas and overcooked pork is not pleasant.</li>
+            <li><strong>The Color:</strong> Greenish-yellow soup that looks like it was made in a chemistry lab.</li>
+            <li><strong>The Taste:</strong> Bland and oddly sweet, unless drowned in mustard.</li>
+            <li><strong>It’s Always Served with Pancakes:</strong> As if they knew they needed something better to distract you.</li>
+        </ul>
+        <p>While some Finns enjoy this soup, many outsiders (and even locals) wonder why it still exists. Perhaps it’s tradition—or maybe they just have no choice.</p>
+    </div>
+</body>
+</html>
